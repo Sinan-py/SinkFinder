@@ -1,5 +1,7 @@
 # SinkFinder
 
+![Alt text](https://github.com/Sinan-py/SinkFinder/blob/main/SF.jpg?raw=true)
+
 ## Overview
 
 The **SinkFinder** is a Python-based tool designed to scan websites for potentially vulnerable JavaScript code. It examines JavaScript files included in web pages and identifies if they contain any common sinks that could be exploited for Cross-Site Scripting (XSS) attacks or other vulnerabilities.
