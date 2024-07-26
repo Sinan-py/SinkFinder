@@ -1,6 +1,6 @@
 # SinkFinder
 
-![Alt text](https://github.com/Sinan-py/SinkFinder/blob/main/SF.jpg?raw=true)
+![Alt text]()
 
 ## Overview
 
