@@ -26,15 +26,13 @@ You can install the required libraries using pip:
 
 Usage
 	1. Clone this repository:
-		git clone https://github.com/Sinan-py/SinkFinder.git
-
+		`git clone https://github.com/Sinan-py/SinkFinder.git`
 	2. Navigate to the project directory:
-		cd SinkFinder
-
+		`cd SinkFinder`
 	3. Run the scanner:
-		python SinkFinder.py
-
+		`python SinkFinder.py`
 	4. Enter the full URL of the website you want to scan when prompted.
+
 
 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Sinan-py/SinkFinder/blob/main/LICENSE) file for details.
