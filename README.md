@@ -40,7 +40,7 @@ License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Sinan-py/SinkFinder/blob/main/LICENSE) file for details.
 
 Author
-This project is maintained by Sinan Web3 (github.com/Sinan-py).
+This project is maintained by [Sinan Web3](github.com/Sinan-py).
 
 Contact
 For any questions or issues, please contact backdoorkit@proton.me.
