@@ -60,7 +60,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Important Notice
 
-This software is licensed under the MIT License. While you are free to use, copy, and distribute this software, we request that you do not modify the code without prior permission. Unauthorized modifications to the code are not permitted and may violate the terms of the license. Please refer to the [LICENSE](https://github.com/Sinan-py/SinkFinder/blob/main/LICENSE) file for more details.
+This software is licensed under the MIT License. While you are free to use, copy, and distribute this software, we request that you do not modify the code without prior permission. Unauthorized modifications to the code are not permitted and may violate the terms of the license. Please refer to the [LICENSE](LICENSE) file for more details.
 
 For any questions regarding the use and modification of this software, please contact [backdoorkit@proton.me].
 ````
