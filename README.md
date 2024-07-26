@@ -27,13 +27,20 @@ You can install the required libraries using pip:
 
 
 Usage
-	1. Clone this repository:
-		`git clone https://github.com/Sinan-py/SinkFinder.git`
-	2. Navigate to the project directory:
-		`cd SinkFinder`
-	3. Run the scanner:
-		`python SinkFinder.py`
-	4. Enter the full URL of the website you want to scan when prompted.
+
+1. Clone this repository:
+	`git clone https://github.com/Sinan-py/SinkFinder.git`
+
+2. Navigate to the project directory:
+	`cd SinkFinder`
+
+3. Make the script executable (optional):
+	`chmod +x SinkFinder.py`
+
+4. Run the scanner:
+	`python SinkFinder.py`
+	
+5. Enter the full URL of the website you want to scan when prompted.
 
 
 License
